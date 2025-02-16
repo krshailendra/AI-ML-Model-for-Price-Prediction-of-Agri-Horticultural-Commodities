@@ -1,1 +1,2 @@
-# AI-ML-Model-for-Price-Prediction-of-Agri-Horticultural-Commodities
+- Time Series Forcasting model using LSTM and GRU to predict agricultural commodity prices.
+- Developed ML driven mathematical model to improvise the buffer stock release strategy of the government for better efficiency.
